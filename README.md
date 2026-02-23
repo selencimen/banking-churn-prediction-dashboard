@@ -4,6 +4,11 @@
 
 ---
 
+## Live Demo
+🚀 Streamlit App: https://banking-churn-prediction-dashboard.streamlit.app
+
+---
+
 ## 📌 Project Overview
 
 This project builds a complete machine learning pipeline to predict customer churn in the banking sector.
