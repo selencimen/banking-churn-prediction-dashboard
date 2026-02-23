@@ -1,0 +1,12 @@
+﻿# virtual environments
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
