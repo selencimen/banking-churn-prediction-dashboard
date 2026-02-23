@@ -16,7 +16,3 @@ xgboost==2.0.3
 
 # Model Explainability
 shap==0.44.0
-
-# Utilities
-pickle5==0.0.11
-pathlib==1.0.1
