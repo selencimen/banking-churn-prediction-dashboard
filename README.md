@@ -101,7 +101,7 @@ streamlit run app.py
 ## 📊 Dataset
 
 Public dataset from Kaggle:  
-Churn Modelling Dataset
+[Churn Modelling Dataset](https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset)
 
 ---
 
