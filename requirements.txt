@@ -1,0 +1,22 @@
+# Banking Churn Prediction Dashboard Requirements
+
+# Core
+streamlit==1.29.0
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Machine Learning
+scikit-learn==1.3.2
+xgboost==2.0.3
+
+# Model Explainability
+shap==0.44.0
+
+# Utilities
+pickle5==0.0.11
+pathlib==1.0.1
